@@ -4,9 +4,9 @@ Aplikasi Flutter untuk menampilkan layar utama **Ringkasan Tabungan** menggunaka
 
 ## Informasi Mahasiswa
 
-* **Nama:** [David Yehezkiel]
-* **NIM:** [20240801013]
-* **Mata Kuliah:** TI505 Pemrograman Mobile (Semester 5)
+* **Nama:** David Yehezkiel
+* **NIM:** 20240801013
+* **Mata Kuliah:** Pemrograman Mobile
 
 ---
 
