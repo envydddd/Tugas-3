@@ -36,5 +36,5 @@ Aplikasi Flutter untuk menampilkan layar utama **Ringkasan Tabungan** menggunaka
 
 Dokumentasi hasil tangkapan layar tampilan aplikasi pada dua ukuran layar berbeda tersimpan di folder `docs/`:
 
-1. **Layar Smartphone (Portrait):** [`docs/screenshot_phone_portrait.png`](docs/screenshot_phone_portrait.png)
-2. **Layar Tablet:** [`docs/screenshot_tablet.png`](docs/screenshot_tablet.png)
+1. **Layar Smartphone (Portrait):** [`docs/screenshot_phone_portrait.jpg`](docs/screenshot_phone_portrait.jpg)
+2. **Layar Tablet:** [`docs/screenshot_tablet.jpg`](docs/screenshot_tablet.jpg)
